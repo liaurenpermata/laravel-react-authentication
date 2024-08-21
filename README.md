@@ -1,3 +1,17 @@
+# Repository Introduction
+
+This code is based from The Codeholic ["React + Laravel Fullstack Application"](https://www.youtube.com/watch?v=qJq9ZMB2Was&pp=ygUHbGFyYXZlbA%3D%3D).
+
+Key Points :
+* Make Authentication Login, Register, LogOut.
+* Connect Laravel and React in one folder.
+* Make Controllers, Routes, Model, Migration, Request.
+* Learn Factory for define fake database model with suitable requirement needed.
+* Learn Seed to populated factory data in database.
+
+
+# Laravel
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
